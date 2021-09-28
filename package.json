@@ -1,8 +1,7 @@
 {
   "name": "generator-sass-with-gulp-boilerplate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "boilerplate for sass-gulp-website",
-  "homepage": "none",
   "author": {
     "name": "Arbab Hussain",
     "email": "38646088+arbabhsiddiqui@users.noreply.github.com",
@@ -11,7 +10,7 @@
   "files": [
     "generators"
   ],
-  "main": "generators/index.js",
+  "main": "generators/app/index.js",
   "keywords": [
     "sass-boilerplate",
     "sass",
